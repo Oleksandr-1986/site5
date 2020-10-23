@@ -23,7 +23,6 @@ header{
 	background-image: url(../images/mainBanner.png);
 	background-repeat: no-repeat;
 	background-size:100%  100%;
-	background-attachment: fixed;
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -563,7 +562,6 @@ a[data-title]{
 .about__image {
 	flex:1 1 50%;
 	background-image: url(../images/bgTrain.png);
-	background-attachment: fixed;
 	background-size: auto 100%;
 }
 
